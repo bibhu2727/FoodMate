@@ -1411,3 +1411,115 @@ body {
     box-shadow: inset 0px 0px 0px 30px rgba(46, 204, 113, 0.1);
   }
 }
+
+/* ─── Global Responsive Overrides ────────────────────────────────── */
+@media (max-width: 768px) {
+  .header {
+    padding: 0 1rem;
+  }
+
+  .header-brand {
+    gap: 8px;
+  }
+
+  .header-logo {
+    width: 30px;
+    height: 30px;
+    font-size: 1rem;
+  }
+
+  .header-title {
+    font-size: 0.95rem;
+  }
+
+  .header-subtitle {
+    display: none;
+    /* Hide subtitle on tiny screens to save space */
+  }
+
+  .header-meta {
+    gap: 0.75rem;
+  }
+
+  .header-badge {
+    padding: 3px 6px;
+    font-size: 0.65rem;
+  }
+
+  .restaurant-selector {
+    padding: 1rem;
+  }
+
+  .restaurant-card {
+    width: 160px;
+    padding: 0.75rem;
+  }
+
+  .rest-name {
+    font-size: 0.8rem;
+  }
+
+  .menu-section {
+    padding: 1rem;
+    max-height: calc(100vh - 150px);
+  }
+
+  .menu-grid {
+    grid-template-columns: 1fr;
+    /* Force single column on mobile */
+  }
+
+  .checkout-container {
+    padding: 0 1rem;
+    margin: 1rem auto;
+  }
+
+  .checkout-layout {
+    gap: 1rem;
+  }
+
+  .checkout-left h2 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+
+  .glass-panel {
+    padding: 1rem;
+  }
+
+  .metrics-panel {
+    width: calc(100% - 3rem);
+    left: 1.5rem;
+  }
+
+  .cart-sidebar {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .mobile-cart-toggle {
+    bottom: 1rem;
+    right: 1rem;
+    width: 50px;
+    height: 50px;
+    font-size: 1.2rem;
+  }
+
+  .metrics-toggle {
+    bottom: 1rem;
+    left: 1rem;
+    width: 44px;
+    height: 44px;
+  }
+
+  .metrics-panel {
+    left: 1rem;
+    bottom: 4.5rem;
+    width: calc(100% - 2rem);
+    padding: 1rem;
+  }
+
+  .checkout-success h2 {
+    font-size: 1.5rem;
+  }
+}
