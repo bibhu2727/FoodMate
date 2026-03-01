@@ -1,0 +1,7705 @@
+[
+  {
+    "user_id": "U00001",
+    "city": "Chennai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 234.0,
+    "account_age_days": 680,
+    "is_new": true
+  },
+  {
+    "user_id": "U00002",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Beverages",
+      "North Indian",
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 262.0,
+    "account_age_days": 440,
+    "is_new": false
+  },
+  {
+    "user_id": "U00003",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 342.0,
+    "account_age_days": 844,
+    "is_new": false
+  },
+  {
+    "user_id": "U00004",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 796.0,
+    "account_age_days": 1114,
+    "is_new": false
+  },
+  {
+    "user_id": "U00005",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai",
+      "Continental",
+      "Italian",
+      "Chinese"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 167.0,
+    "account_age_days": 1223,
+    "is_new": false
+  },
+  {
+    "user_id": "U00006",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 577.0,
+    "account_age_days": 546,
+    "is_new": false
+  },
+  {
+    "user_id": "U00007",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "Mughlai",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 674.0,
+    "account_age_days": 1429,
+    "is_new": false
+  },
+  {
+    "user_id": "U00008",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 351.0,
+    "account_age_days": 1005,
+    "is_new": true
+  },
+  {
+    "user_id": "U00009",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Italian",
+      "Desserts",
+      "South Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 616.0,
+    "account_age_days": 663,
+    "is_new": true
+  },
+  {
+    "user_id": "U00010",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Street Food"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 393.0,
+    "account_age_days": 1357,
+    "is_new": false
+  },
+  {
+    "user_id": "U00011",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 610.0,
+    "account_age_days": 1151,
+    "is_new": false
+  },
+  {
+    "user_id": "U00012",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani",
+      "Mughlai"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 266.0,
+    "account_age_days": 4,
+    "is_new": false
+  },
+  {
+    "user_id": "U00013",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 676.0,
+    "account_age_days": 1253,
+    "is_new": false
+  },
+  {
+    "user_id": "U00014",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 259.0,
+    "account_age_days": 182,
+    "is_new": false
+  },
+  {
+    "user_id": "U00015",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 220.0,
+    "account_age_days": 3,
+    "is_new": true
+  },
+  {
+    "user_id": "U00016",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Desserts",
+      "Street Food",
+      "Biryani",
+      "Italian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 689.0,
+    "account_age_days": 1184,
+    "is_new": false
+  },
+  {
+    "user_id": "U00017",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "North Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 320.0,
+    "account_age_days": 215,
+    "is_new": true
+  },
+  {
+    "user_id": "U00018",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 536.0,
+    "account_age_days": 1257,
+    "is_new": false
+  },
+  {
+    "user_id": "U00019",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "South Indian",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 416.0,
+    "account_age_days": 1135,
+    "is_new": false
+  },
+  {
+    "user_id": "U00020",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 507.0,
+    "account_age_days": 1006,
+    "is_new": false
+  },
+  {
+    "user_id": "U00021",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "North Indian",
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 340.0,
+    "account_age_days": 168,
+    "is_new": false
+  },
+  {
+    "user_id": "U00022",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian",
+      "Desserts",
+      "Mughlai",
+      "Chinese"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 398.0,
+    "account_age_days": 383,
+    "is_new": false
+  },
+  {
+    "user_id": "U00023",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "Desserts"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 584.0,
+    "account_age_days": 176,
+    "is_new": false
+  },
+  {
+    "user_id": "U00024",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 778.0,
+    "account_age_days": 1408,
+    "is_new": false
+  },
+  {
+    "user_id": "U00025",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "North Indian",
+      "Biryani"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 735.0,
+    "account_age_days": 1171,
+    "is_new": false
+  },
+  {
+    "user_id": "U00026",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 178.0,
+    "account_age_days": 161,
+    "is_new": false
+  },
+  {
+    "user_id": "U00027",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 623.0,
+    "account_age_days": 138,
+    "is_new": true
+  },
+  {
+    "user_id": "U00028",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Desserts",
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 246.0,
+    "account_age_days": 1205,
+    "is_new": false
+  },
+  {
+    "user_id": "U00029",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Mughlai"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 374.0,
+    "account_age_days": 842,
+    "is_new": false
+  },
+  {
+    "user_id": "U00030",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts",
+      "Chinese"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 546.0,
+    "account_age_days": 1421,
+    "is_new": false
+  },
+  {
+    "user_id": "U00031",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Beverages",
+      "Biryani"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 392.0,
+    "account_age_days": 692,
+    "is_new": false
+  },
+  {
+    "user_id": "U00032",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 783.0,
+    "account_age_days": 908,
+    "is_new": false
+  },
+  {
+    "user_id": "U00033",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 744.0,
+    "account_age_days": 834,
+    "is_new": false
+  },
+  {
+    "user_id": "U00034",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 657.0,
+    "account_age_days": 1074,
+    "is_new": false
+  },
+  {
+    "user_id": "U00035",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 183.0,
+    "account_age_days": 739,
+    "is_new": false
+  },
+  {
+    "user_id": "U00036",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Italian",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 440.0,
+    "account_age_days": 972,
+    "is_new": false
+  },
+  {
+    "user_id": "U00037",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Biryani",
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 256.0,
+    "account_age_days": 1172,
+    "is_new": false
+  },
+  {
+    "user_id": "U00038",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 657.0,
+    "account_age_days": 1398,
+    "is_new": true
+  },
+  {
+    "user_id": "U00039",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 673.0,
+    "account_age_days": 626,
+    "is_new": false
+  },
+  {
+    "user_id": "U00040",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Biryani",
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 590.0,
+    "account_age_days": 1278,
+    "is_new": false
+  },
+  {
+    "user_id": "U00041",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 463.0,
+    "account_age_days": 689,
+    "is_new": false
+  },
+  {
+    "user_id": "U00042",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 707.0,
+    "account_age_days": 1229,
+    "is_new": false
+  },
+  {
+    "user_id": "U00043",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Desserts",
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 173.0,
+    "account_age_days": 1451,
+    "is_new": false
+  },
+  {
+    "user_id": "U00044",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai",
+      "Biryani",
+      "Desserts",
+      "South Indian"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 577.0,
+    "account_age_days": 1144,
+    "is_new": false
+  },
+  {
+    "user_id": "U00045",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 295.0,
+    "account_age_days": 629,
+    "is_new": false
+  },
+  {
+    "user_id": "U00046",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages",
+      "North Indian",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 527.0,
+    "account_age_days": 1272,
+    "is_new": true
+  },
+  {
+    "user_id": "U00047",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani",
+      "Desserts",
+      "North Indian",
+      "South Indian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 795.0,
+    "account_age_days": 702,
+    "is_new": false
+  },
+  {
+    "user_id": "U00048",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 791.0,
+    "account_age_days": 642,
+    "is_new": false
+  },
+  {
+    "user_id": "U00049",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 646.0,
+    "account_age_days": 181,
+    "is_new": true
+  },
+  {
+    "user_id": "U00050",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian",
+      "Mughlai",
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 393.0,
+    "account_age_days": 29,
+    "is_new": false
+  },
+  {
+    "user_id": "U00051",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 217.0,
+    "account_age_days": 1031,
+    "is_new": false
+  },
+  {
+    "user_id": "U00052",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "Street Food",
+      "Italian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 596.0,
+    "account_age_days": 275,
+    "is_new": false
+  },
+  {
+    "user_id": "U00053",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Mughlai",
+      "Street Food",
+      "South Indian"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 627.0,
+    "account_age_days": 1208,
+    "is_new": false
+  },
+  {
+    "user_id": "U00054",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 498.0,
+    "account_age_days": 100,
+    "is_new": false
+  },
+  {
+    "user_id": "U00055",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "South Indian"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 439.0,
+    "account_age_days": 254,
+    "is_new": false
+  },
+  {
+    "user_id": "U00056",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 216.0,
+    "account_age_days": 1066,
+    "is_new": false
+  },
+  {
+    "user_id": "U00057",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 219.0,
+    "account_age_days": 407,
+    "is_new": false
+  },
+  {
+    "user_id": "U00058",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 473.0,
+    "account_age_days": 426,
+    "is_new": false
+  },
+  {
+    "user_id": "U00059",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 767.0,
+    "account_age_days": 1048,
+    "is_new": true
+  },
+  {
+    "user_id": "U00060",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Beverages",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 264.0,
+    "account_age_days": 81,
+    "is_new": false
+  },
+  {
+    "user_id": "U00061",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 704.0,
+    "account_age_days": 1359,
+    "is_new": false
+  },
+  {
+    "user_id": "U00062",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Street Food",
+      "Mughlai",
+      "Continental"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 411.0,
+    "account_age_days": 935,
+    "is_new": false
+  },
+  {
+    "user_id": "U00063",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "South Indian",
+      "Continental",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 788.0,
+    "account_age_days": 327,
+    "is_new": true
+  },
+  {
+    "user_id": "U00064",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 169.0,
+    "account_age_days": 1402,
+    "is_new": false
+  },
+  {
+    "user_id": "U00065",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "North Indian",
+      "South Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 158.0,
+    "account_age_days": 1389,
+    "is_new": false
+  },
+  {
+    "user_id": "U00066",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 622.0,
+    "account_age_days": 987,
+    "is_new": false
+  },
+  {
+    "user_id": "U00067",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 702.0,
+    "account_age_days": 1016,
+    "is_new": false
+  },
+  {
+    "user_id": "U00068",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "North Indian",
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 396.0,
+    "account_age_days": 482,
+    "is_new": true
+  },
+  {
+    "user_id": "U00069",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Street Food",
+      "South Indian",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 162.0,
+    "account_age_days": 827,
+    "is_new": false
+  },
+  {
+    "user_id": "U00070",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 447.0,
+    "account_age_days": 699,
+    "is_new": false
+  },
+  {
+    "user_id": "U00071",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 224.0,
+    "account_age_days": 1350,
+    "is_new": false
+  },
+  {
+    "user_id": "U00072",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 180.0,
+    "account_age_days": 337,
+    "is_new": false
+  },
+  {
+    "user_id": "U00073",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 686.0,
+    "account_age_days": 391,
+    "is_new": false
+  },
+  {
+    "user_id": "U00074",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 533.0,
+    "account_age_days": 1033,
+    "is_new": true
+  },
+  {
+    "user_id": "U00075",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages",
+      "Chinese",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 625.0,
+    "account_age_days": 263,
+    "is_new": true
+  },
+  {
+    "user_id": "U00076",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 444.0,
+    "account_age_days": 274,
+    "is_new": true
+  },
+  {
+    "user_id": "U00077",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian",
+      "Continental",
+      "South Indian"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 614.0,
+    "account_age_days": 1407,
+    "is_new": false
+  },
+  {
+    "user_id": "U00078",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 225.0,
+    "account_age_days": 722,
+    "is_new": false
+  },
+  {
+    "user_id": "U00079",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian",
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 244.0,
+    "account_age_days": 1373,
+    "is_new": true
+  },
+  {
+    "user_id": "U00080",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese",
+      "North Indian",
+      "Street Food"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 342.0,
+    "account_age_days": 1109,
+    "is_new": true
+  },
+  {
+    "user_id": "U00081",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 660.0,
+    "account_age_days": 1426,
+    "is_new": false
+  },
+  {
+    "user_id": "U00082",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "North Indian",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 282.0,
+    "account_age_days": 908,
+    "is_new": false
+  },
+  {
+    "user_id": "U00083",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 789.0,
+    "account_age_days": 153,
+    "is_new": false
+  },
+  {
+    "user_id": "U00084",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 322.0,
+    "account_age_days": 330,
+    "is_new": false
+  },
+  {
+    "user_id": "U00085",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 183.0,
+    "account_age_days": 1281,
+    "is_new": false
+  },
+  {
+    "user_id": "U00086",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Street Food",
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 194.0,
+    "account_age_days": 1035,
+    "is_new": false
+  },
+  {
+    "user_id": "U00087",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental",
+      "Mughlai"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 292.0,
+    "account_age_days": 1267,
+    "is_new": false
+  },
+  {
+    "user_id": "U00088",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "North Indian"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 726.0,
+    "account_age_days": 782,
+    "is_new": false
+  },
+  {
+    "user_id": "U00089",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 481.0,
+    "account_age_days": 997,
+    "is_new": true
+  },
+  {
+    "user_id": "U00090",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 155.0,
+    "account_age_days": 135,
+    "is_new": false
+  },
+  {
+    "user_id": "U00091",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 607.0,
+    "account_age_days": 892,
+    "is_new": false
+  },
+  {
+    "user_id": "U00092",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian",
+      "South Indian",
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 666.0,
+    "account_age_days": 1143,
+    "is_new": true
+  },
+  {
+    "user_id": "U00093",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Continental",
+      "Street Food",
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 227.0,
+    "account_age_days": 13,
+    "is_new": false
+  },
+  {
+    "user_id": "U00094",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 338.0,
+    "account_age_days": 1405,
+    "is_new": false
+  },
+  {
+    "user_id": "U00095",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian",
+      "Beverages",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 239.0,
+    "account_age_days": 801,
+    "is_new": false
+  },
+  {
+    "user_id": "U00096",
+    "city": "Chennai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Chinese",
+      "Continental"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 153.0,
+    "account_age_days": 1222,
+    "is_new": false
+  },
+  {
+    "user_id": "U00097",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Desserts",
+      "Chinese",
+      "South Indian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 294.0,
+    "account_age_days": 518,
+    "is_new": false
+  },
+  {
+    "user_id": "U00098",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 507.0,
+    "account_age_days": 596,
+    "is_new": false
+  },
+  {
+    "user_id": "U00099",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental",
+      "Chinese",
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 215.0,
+    "account_age_days": 1269,
+    "is_new": true
+  },
+  {
+    "user_id": "U00100",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 773.0,
+    "account_age_days": 346,
+    "is_new": true
+  },
+  {
+    "user_id": "U00101",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Street Food",
+      "Chinese",
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 721.0,
+    "account_age_days": 948,
+    "is_new": false
+  },
+  {
+    "user_id": "U00102",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 500.0,
+    "account_age_days": 540,
+    "is_new": false
+  },
+  {
+    "user_id": "U00103",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Desserts"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 534.0,
+    "account_age_days": 76,
+    "is_new": false
+  },
+  {
+    "user_id": "U00104",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani",
+      "Chinese",
+      "Continental",
+      "Mughlai"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 209.0,
+    "account_age_days": 746,
+    "is_new": false
+  },
+  {
+    "user_id": "U00105",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 266.0,
+    "account_age_days": 1159,
+    "is_new": false
+  },
+  {
+    "user_id": "U00106",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Beverages",
+      "South Indian"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 322.0,
+    "account_age_days": 480,
+    "is_new": true
+  },
+  {
+    "user_id": "U00107",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental",
+      "North Indian",
+      "Mughlai",
+      "Street Food"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 217.0,
+    "account_age_days": 1068,
+    "is_new": false
+  },
+  {
+    "user_id": "U00108",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 575.0,
+    "account_age_days": 160,
+    "is_new": false
+  },
+  {
+    "user_id": "U00109",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental",
+      "Beverages",
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 543.0,
+    "account_age_days": 1028,
+    "is_new": false
+  },
+  {
+    "user_id": "U00110",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 541.0,
+    "account_age_days": 243,
+    "is_new": false
+  },
+  {
+    "user_id": "U00111",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental",
+      "Italian",
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 692.0,
+    "account_age_days": 46,
+    "is_new": false
+  },
+  {
+    "user_id": "U00112",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 258.0,
+    "account_age_days": 369,
+    "is_new": false
+  },
+  {
+    "user_id": "U00113",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 442.0,
+    "account_age_days": 966,
+    "is_new": false
+  },
+  {
+    "user_id": "U00114",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese",
+      "Biryani"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 621.0,
+    "account_age_days": 702,
+    "is_new": false
+  },
+  {
+    "user_id": "U00115",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 709.0,
+    "account_age_days": 1033,
+    "is_new": false
+  },
+  {
+    "user_id": "U00116",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 226.0,
+    "account_age_days": 988,
+    "is_new": false
+  },
+  {
+    "user_id": "U00117",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts",
+      "Street Food",
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 494.0,
+    "account_age_days": 470,
+    "is_new": false
+  },
+  {
+    "user_id": "U00118",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 460.0,
+    "account_age_days": 477,
+    "is_new": false
+  },
+  {
+    "user_id": "U00119",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian",
+      "North Indian",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 155.0,
+    "account_age_days": 1071,
+    "is_new": true
+  },
+  {
+    "user_id": "U00120",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Street Food",
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 574.0,
+    "account_age_days": 520,
+    "is_new": false
+  },
+  {
+    "user_id": "U00121",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Desserts",
+      "Beverages",
+      "South Indian",
+      "Chinese"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 511.0,
+    "account_age_days": 520,
+    "is_new": false
+  },
+  {
+    "user_id": "U00122",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 605.0,
+    "account_age_days": 332,
+    "is_new": true
+  },
+  {
+    "user_id": "U00123",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Desserts"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 153.0,
+    "account_age_days": 187,
+    "is_new": false
+  },
+  {
+    "user_id": "U00124",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 202.0,
+    "account_age_days": 78,
+    "is_new": false
+  },
+  {
+    "user_id": "U00125",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 157.0,
+    "account_age_days": 1346,
+    "is_new": false
+  },
+  {
+    "user_id": "U00126",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 306.0,
+    "account_age_days": 1,
+    "is_new": false
+  },
+  {
+    "user_id": "U00127",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Continental",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 629.0,
+    "account_age_days": 141,
+    "is_new": false
+  },
+  {
+    "user_id": "U00128",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 446.0,
+    "account_age_days": 828,
+    "is_new": false
+  },
+  {
+    "user_id": "U00129",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 766.0,
+    "account_age_days": 1052,
+    "is_new": false
+  },
+  {
+    "user_id": "U00130",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food",
+      "Beverages",
+      "Mughlai",
+      "Continental"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 531.0,
+    "account_age_days": 57,
+    "is_new": false
+  },
+  {
+    "user_id": "U00131",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 486.0,
+    "account_age_days": 20,
+    "is_new": false
+  },
+  {
+    "user_id": "U00132",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 380.0,
+    "account_age_days": 1175,
+    "is_new": false
+  },
+  {
+    "user_id": "U00133",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 693.0,
+    "account_age_days": 1267,
+    "is_new": false
+  },
+  {
+    "user_id": "U00134",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Mughlai",
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 553.0,
+    "account_age_days": 1009,
+    "is_new": false
+  },
+  {
+    "user_id": "U00135",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 670.0,
+    "account_age_days": 980,
+    "is_new": false
+  },
+  {
+    "user_id": "U00136",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian",
+      "Continental"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 598.0,
+    "account_age_days": 25,
+    "is_new": false
+  },
+  {
+    "user_id": "U00137",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 456.0,
+    "account_age_days": 1256,
+    "is_new": false
+  },
+  {
+    "user_id": "U00138",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts",
+      "Biryani",
+      "Italian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 521.0,
+    "account_age_days": 1180,
+    "is_new": false
+  },
+  {
+    "user_id": "U00139",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Chinese",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 457.0,
+    "account_age_days": 20,
+    "is_new": false
+  },
+  {
+    "user_id": "U00140",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Biryani",
+      "Mughlai",
+      "Continental"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 519.0,
+    "account_age_days": 816,
+    "is_new": true
+  },
+  {
+    "user_id": "U00141",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages",
+      "Street Food",
+      "Chinese",
+      "Desserts"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 514.0,
+    "account_age_days": 528,
+    "is_new": false
+  },
+  {
+    "user_id": "U00142",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Mughlai",
+      "Chinese"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 335.0,
+    "account_age_days": 666,
+    "is_new": false
+  },
+  {
+    "user_id": "U00143",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 561.0,
+    "account_age_days": 297,
+    "is_new": false
+  },
+  {
+    "user_id": "U00144",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Continental",
+      "Chinese",
+      "Beverages",
+      "Mughlai"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 356.0,
+    "account_age_days": 597,
+    "is_new": false
+  },
+  {
+    "user_id": "U00145",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Mughlai",
+      "Beverages",
+      "Italian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 270.0,
+    "account_age_days": 48,
+    "is_new": true
+  },
+  {
+    "user_id": "U00146",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 217.0,
+    "account_age_days": 131,
+    "is_new": false
+  },
+  {
+    "user_id": "U00147",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian",
+      "Continental",
+      "Chinese",
+      "Biryani"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 205.0,
+    "account_age_days": 799,
+    "is_new": false
+  },
+  {
+    "user_id": "U00148",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "Continental"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 173.0,
+    "account_age_days": 731,
+    "is_new": false
+  },
+  {
+    "user_id": "U00149",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 265.0,
+    "account_age_days": 1224,
+    "is_new": false
+  },
+  {
+    "user_id": "U00150",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages",
+      "Italian",
+      "Desserts"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 437.0,
+    "account_age_days": 750,
+    "is_new": false
+  },
+  {
+    "user_id": "U00151",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 155.0,
+    "account_age_days": 1008,
+    "is_new": false
+  },
+  {
+    "user_id": "U00152",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "North Indian",
+      "Biryani"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 273.0,
+    "account_age_days": 1149,
+    "is_new": false
+  },
+  {
+    "user_id": "U00153",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Biryani",
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 306.0,
+    "account_age_days": 1256,
+    "is_new": false
+  },
+  {
+    "user_id": "U00154",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 338.0,
+    "account_age_days": 1305,
+    "is_new": false
+  },
+  {
+    "user_id": "U00155",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian",
+      "Chinese"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 780.0,
+    "account_age_days": 46,
+    "is_new": false
+  },
+  {
+    "user_id": "U00156",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "South Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 291.0,
+    "account_age_days": 861,
+    "is_new": false
+  },
+  {
+    "user_id": "U00157",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 638.0,
+    "account_age_days": 300,
+    "is_new": true
+  },
+  {
+    "user_id": "U00158",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 783.0,
+    "account_age_days": 1464,
+    "is_new": false
+  },
+  {
+    "user_id": "U00159",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 403.0,
+    "account_age_days": 640,
+    "is_new": false
+  },
+  {
+    "user_id": "U00160",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 344.0,
+    "account_age_days": 739,
+    "is_new": false
+  },
+  {
+    "user_id": "U00161",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian",
+      "Chinese",
+      "Desserts",
+      "Beverages"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 228.0,
+    "account_age_days": 498,
+    "is_new": true
+  },
+  {
+    "user_id": "U00162",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 475.0,
+    "account_age_days": 1405,
+    "is_new": false
+  },
+  {
+    "user_id": "U00163",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 356.0,
+    "account_age_days": 1144,
+    "is_new": false
+  },
+  {
+    "user_id": "U00164",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 238.0,
+    "account_age_days": 81,
+    "is_new": false
+  },
+  {
+    "user_id": "U00165",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "Street Food",
+      "Mughlai",
+      "Beverages"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 329.0,
+    "account_age_days": 1227,
+    "is_new": false
+  },
+  {
+    "user_id": "U00166",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Mughlai",
+      "Street Food",
+      "Italian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 654.0,
+    "account_age_days": 1037,
+    "is_new": false
+  },
+  {
+    "user_id": "U00167",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 578.0,
+    "account_age_days": 1104,
+    "is_new": false
+  },
+  {
+    "user_id": "U00168",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 567.0,
+    "account_age_days": 227,
+    "is_new": true
+  },
+  {
+    "user_id": "U00169",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "South Indian"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 275.0,
+    "account_age_days": 66,
+    "is_new": false
+  },
+  {
+    "user_id": "U00170",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 196.0,
+    "account_age_days": 428,
+    "is_new": false
+  },
+  {
+    "user_id": "U00171",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts",
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 188.0,
+    "account_age_days": 1264,
+    "is_new": false
+  },
+  {
+    "user_id": "U00172",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 216.0,
+    "account_age_days": 474,
+    "is_new": false
+  },
+  {
+    "user_id": "U00173",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "Desserts"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 219.0,
+    "account_age_days": 1308,
+    "is_new": false
+  },
+  {
+    "user_id": "U00174",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Continental"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 411.0,
+    "account_age_days": 692,
+    "is_new": false
+  },
+  {
+    "user_id": "U00175",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts",
+      "Mughlai",
+      "Beverages"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 360.0,
+    "account_age_days": 493,
+    "is_new": false
+  },
+  {
+    "user_id": "U00176",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages",
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 622.0,
+    "account_age_days": 583,
+    "is_new": false
+  },
+  {
+    "user_id": "U00177",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Continental",
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 684.0,
+    "account_age_days": 1413,
+    "is_new": false
+  },
+  {
+    "user_id": "U00178",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 528.0,
+    "account_age_days": 478,
+    "is_new": false
+  },
+  {
+    "user_id": "U00179",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 467.0,
+    "account_age_days": 1413,
+    "is_new": false
+  },
+  {
+    "user_id": "U00180",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Street Food",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 755.0,
+    "account_age_days": 247,
+    "is_new": false
+  },
+  {
+    "user_id": "U00181",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 491.0,
+    "account_age_days": 654,
+    "is_new": false
+  },
+  {
+    "user_id": "U00182",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts",
+      "Beverages"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 537.0,
+    "account_age_days": 1034,
+    "is_new": true
+  },
+  {
+    "user_id": "U00183",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 634.0,
+    "account_age_days": 1123,
+    "is_new": false
+  },
+  {
+    "user_id": "U00184",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages",
+      "Italian"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 407.0,
+    "account_age_days": 1171,
+    "is_new": false
+  },
+  {
+    "user_id": "U00185",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian",
+      "Mughlai",
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 387.0,
+    "account_age_days": 391,
+    "is_new": false
+  },
+  {
+    "user_id": "U00186",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 751.0,
+    "account_age_days": 479,
+    "is_new": false
+  },
+  {
+    "user_id": "U00187",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 767.0,
+    "account_age_days": 303,
+    "is_new": false
+  },
+  {
+    "user_id": "U00188",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 165.0,
+    "account_age_days": 429,
+    "is_new": false
+  },
+  {
+    "user_id": "U00189",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 584.0,
+    "account_age_days": 772,
+    "is_new": false
+  },
+  {
+    "user_id": "U00190",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Biryani",
+      "North Indian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 576.0,
+    "account_age_days": 18,
+    "is_new": true
+  },
+  {
+    "user_id": "U00191",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 572.0,
+    "account_age_days": 474,
+    "is_new": false
+  },
+  {
+    "user_id": "U00192",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 778.0,
+    "account_age_days": 1149,
+    "is_new": false
+  },
+  {
+    "user_id": "U00193",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages",
+      "Desserts",
+      "Continental"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 162.0,
+    "account_age_days": 1402,
+    "is_new": false
+  },
+  {
+    "user_id": "U00194",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Biryani",
+      "Desserts",
+      "Beverages"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 764.0,
+    "account_age_days": 574,
+    "is_new": false
+  },
+  {
+    "user_id": "U00195",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 548.0,
+    "account_age_days": 1282,
+    "is_new": false
+  },
+  {
+    "user_id": "U00196",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Street Food",
+      "Beverages",
+      "Biryani"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 284.0,
+    "account_age_days": 284,
+    "is_new": false
+  },
+  {
+    "user_id": "U00197",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "Mughlai"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 194.0,
+    "account_age_days": 1092,
+    "is_new": false
+  },
+  {
+    "user_id": "U00198",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 347.0,
+    "account_age_days": 1305,
+    "is_new": false
+  },
+  {
+    "user_id": "U00199",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Biryani"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 519.0,
+    "account_age_days": 473,
+    "is_new": false
+  },
+  {
+    "user_id": "U00200",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "Beverages",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 270.0,
+    "account_age_days": 794,
+    "is_new": false
+  },
+  {
+    "user_id": "U00201",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Biryani",
+      "Desserts",
+      "South Indian",
+      "Street Food"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 792.0,
+    "account_age_days": 419,
+    "is_new": true
+  },
+  {
+    "user_id": "U00202",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian",
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 177.0,
+    "account_age_days": 780,
+    "is_new": false
+  },
+  {
+    "user_id": "U00203",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 447.0,
+    "account_age_days": 87,
+    "is_new": false
+  },
+  {
+    "user_id": "U00204",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 647.0,
+    "account_age_days": 101,
+    "is_new": false
+  },
+  {
+    "user_id": "U00205",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Chinese",
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 747.0,
+    "account_age_days": 1414,
+    "is_new": false
+  },
+  {
+    "user_id": "U00206",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 656.0,
+    "account_age_days": 1426,
+    "is_new": false
+  },
+  {
+    "user_id": "U00207",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 313.0,
+    "account_age_days": 1417,
+    "is_new": false
+  },
+  {
+    "user_id": "U00208",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 490.0,
+    "account_age_days": 787,
+    "is_new": false
+  },
+  {
+    "user_id": "U00209",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "Mughlai"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 244.0,
+    "account_age_days": 1459,
+    "is_new": true
+  },
+  {
+    "user_id": "U00210",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese",
+      "South Indian",
+      "Beverages",
+      "Desserts"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 555.0,
+    "account_age_days": 519,
+    "is_new": true
+  },
+  {
+    "user_id": "U00211",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 291.0,
+    "account_age_days": 1351,
+    "is_new": false
+  },
+  {
+    "user_id": "U00212",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 553.0,
+    "account_age_days": 1142,
+    "is_new": false
+  },
+  {
+    "user_id": "U00213",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese",
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 695.0,
+    "account_age_days": 612,
+    "is_new": false
+  },
+  {
+    "user_id": "U00214",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Biryani",
+      "Continental"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 637.0,
+    "account_age_days": 738,
+    "is_new": false
+  },
+  {
+    "user_id": "U00215",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "Continental",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 229.0,
+    "account_age_days": 563,
+    "is_new": false
+  },
+  {
+    "user_id": "U00216",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 464.0,
+    "account_age_days": 1411,
+    "is_new": false
+  },
+  {
+    "user_id": "U00217",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Street Food",
+      "Chinese",
+      "Biryani"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 473.0,
+    "account_age_days": 1494,
+    "is_new": false
+  },
+  {
+    "user_id": "U00218",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian",
+      "North Indian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 166.0,
+    "account_age_days": 1281,
+    "is_new": false
+  },
+  {
+    "user_id": "U00219",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Mughlai",
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 157.0,
+    "account_age_days": 413,
+    "is_new": false
+  },
+  {
+    "user_id": "U00220",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "South Indian",
+      "Street Food",
+      "Chinese"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 621.0,
+    "account_age_days": 1262,
+    "is_new": false
+  },
+  {
+    "user_id": "U00221",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "North Indian",
+      "Chinese",
+      "Italian",
+      "South Indian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 449.0,
+    "account_age_days": 1100,
+    "is_new": false
+  },
+  {
+    "user_id": "U00222",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 621.0,
+    "account_age_days": 647,
+    "is_new": false
+  },
+  {
+    "user_id": "U00223",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Chinese",
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 370.0,
+    "account_age_days": 769,
+    "is_new": false
+  },
+  {
+    "user_id": "U00224",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 171.0,
+    "account_age_days": 848,
+    "is_new": true
+  },
+  {
+    "user_id": "U00225",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai",
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 393.0,
+    "account_age_days": 77,
+    "is_new": false
+  },
+  {
+    "user_id": "U00226",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Chinese",
+      "Italian",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 718.0,
+    "account_age_days": 636,
+    "is_new": false
+  },
+  {
+    "user_id": "U00227",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "North Indian",
+      "Beverages"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 614.0,
+    "account_age_days": 1070,
+    "is_new": true
+  },
+  {
+    "user_id": "U00228",
+    "city": "Chennai",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 180.0,
+    "account_age_days": 1067,
+    "is_new": false
+  },
+  {
+    "user_id": "U00229",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 330.0,
+    "account_age_days": 654,
+    "is_new": false
+  },
+  {
+    "user_id": "U00230",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 217.0,
+    "account_age_days": 1112,
+    "is_new": false
+  },
+  {
+    "user_id": "U00231",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 549.0,
+    "account_age_days": 694,
+    "is_new": false
+  },
+  {
+    "user_id": "U00232",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 206.0,
+    "account_age_days": 803,
+    "is_new": false
+  },
+  {
+    "user_id": "U00233",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 236.0,
+    "account_age_days": 1431,
+    "is_new": false
+  },
+  {
+    "user_id": "U00234",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian",
+      "Mughlai",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 743.0,
+    "account_age_days": 803,
+    "is_new": false
+  },
+  {
+    "user_id": "U00235",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "North Indian",
+      "South Indian",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 461.0,
+    "account_age_days": 350,
+    "is_new": false
+  },
+  {
+    "user_id": "U00236",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "South Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 511.0,
+    "account_age_days": 146,
+    "is_new": false
+  },
+  {
+    "user_id": "U00237",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 193.0,
+    "account_age_days": 427,
+    "is_new": false
+  },
+  {
+    "user_id": "U00238",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 201.0,
+    "account_age_days": 1458,
+    "is_new": false
+  },
+  {
+    "user_id": "U00239",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 771.0,
+    "account_age_days": 143,
+    "is_new": false
+  },
+  {
+    "user_id": "U00240",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 240.0,
+    "account_age_days": 1190,
+    "is_new": false
+  },
+  {
+    "user_id": "U00241",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani",
+      "Desserts",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 277.0,
+    "account_age_days": 1396,
+    "is_new": false
+  },
+  {
+    "user_id": "U00242",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Street Food",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 547.0,
+    "account_age_days": 1046,
+    "is_new": false
+  },
+  {
+    "user_id": "U00243",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 786.0,
+    "account_age_days": 225,
+    "is_new": false
+  },
+  {
+    "user_id": "U00244",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts",
+      "Mughlai",
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 287.0,
+    "account_age_days": 356,
+    "is_new": false
+  },
+  {
+    "user_id": "U00245",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "Biryani",
+      "Continental"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 232.0,
+    "account_age_days": 24,
+    "is_new": true
+  },
+  {
+    "user_id": "U00246",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "South Indian",
+      "Continental",
+      "Street Food",
+      "Italian"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 446.0,
+    "account_age_days": 1425,
+    "is_new": false
+  },
+  {
+    "user_id": "U00247",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "Desserts",
+      "Chinese",
+      "South Indian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 426.0,
+    "account_age_days": 16,
+    "is_new": false
+  },
+  {
+    "user_id": "U00248",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Continental",
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 224.0,
+    "account_age_days": 987,
+    "is_new": false
+  },
+  {
+    "user_id": "U00249",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 547.0,
+    "account_age_days": 503,
+    "is_new": false
+  },
+  {
+    "user_id": "U00250",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 157.0,
+    "account_age_days": 930,
+    "is_new": false
+  },
+  {
+    "user_id": "U00251",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 750.0,
+    "account_age_days": 623,
+    "is_new": false
+  },
+  {
+    "user_id": "U00252",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Biryani"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 629.0,
+    "account_age_days": 56,
+    "is_new": false
+  },
+  {
+    "user_id": "U00253",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese",
+      "Continental",
+      "Mughlai"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 317.0,
+    "account_age_days": 229,
+    "is_new": false
+  },
+  {
+    "user_id": "U00254",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 670.0,
+    "account_age_days": 68,
+    "is_new": false
+  },
+  {
+    "user_id": "U00255",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 579.0,
+    "account_age_days": 1487,
+    "is_new": false
+  },
+  {
+    "user_id": "U00256",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 259.0,
+    "account_age_days": 817,
+    "is_new": false
+  },
+  {
+    "user_id": "U00257",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 244.0,
+    "account_age_days": 891,
+    "is_new": true
+  },
+  {
+    "user_id": "U00258",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 380.0,
+    "account_age_days": 885,
+    "is_new": false
+  },
+  {
+    "user_id": "U00259",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 653.0,
+    "account_age_days": 496,
+    "is_new": false
+  },
+  {
+    "user_id": "U00260",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai",
+      "North Indian"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 156.0,
+    "account_age_days": 140,
+    "is_new": true
+  },
+  {
+    "user_id": "U00261",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani",
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 165.0,
+    "account_age_days": 189,
+    "is_new": true
+  },
+  {
+    "user_id": "U00262",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Chinese"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 577.0,
+    "account_age_days": 1327,
+    "is_new": false
+  },
+  {
+    "user_id": "U00263",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages",
+      "South Indian",
+      "Street Food"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 750.0,
+    "account_age_days": 567,
+    "is_new": false
+  },
+  {
+    "user_id": "U00264",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts",
+      "Mughlai",
+      "Chinese"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 318.0,
+    "account_age_days": 543,
+    "is_new": false
+  },
+  {
+    "user_id": "U00265",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages",
+      "South Indian",
+      "Mughlai",
+      "Biryani"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 430.0,
+    "account_age_days": 1258,
+    "is_new": false
+  },
+  {
+    "user_id": "U00266",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 440.0,
+    "account_age_days": 1020,
+    "is_new": true
+  },
+  {
+    "user_id": "U00267",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Street Food",
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 485.0,
+    "account_age_days": 1005,
+    "is_new": false
+  },
+  {
+    "user_id": "U00268",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 400.0,
+    "account_age_days": 1412,
+    "is_new": false
+  },
+  {
+    "user_id": "U00269",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 798.0,
+    "account_age_days": 1326,
+    "is_new": true
+  },
+  {
+    "user_id": "U00270",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "North Indian",
+      "Continental"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 274.0,
+    "account_age_days": 1426,
+    "is_new": false
+  },
+  {
+    "user_id": "U00271",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 173.0,
+    "account_age_days": 52,
+    "is_new": false
+  },
+  {
+    "user_id": "U00272",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 371.0,
+    "account_age_days": 692,
+    "is_new": false
+  },
+  {
+    "user_id": "U00273",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Chinese",
+      "Italian",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 242.0,
+    "account_age_days": 1340,
+    "is_new": true
+  },
+  {
+    "user_id": "U00274",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 350.0,
+    "account_age_days": 200,
+    "is_new": false
+  },
+  {
+    "user_id": "U00275",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 669.0,
+    "account_age_days": 452,
+    "is_new": true
+  },
+  {
+    "user_id": "U00276",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "South Indian",
+      "Chinese",
+      "Beverages",
+      "Mughlai"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 180.0,
+    "account_age_days": 356,
+    "is_new": false
+  },
+  {
+    "user_id": "U00277",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai",
+      "Chinese"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 308.0,
+    "account_age_days": 1192,
+    "is_new": true
+  },
+  {
+    "user_id": "U00278",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Beverages",
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 267.0,
+    "account_age_days": 183,
+    "is_new": false
+  },
+  {
+    "user_id": "U00279",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian",
+      "Continental",
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 443.0,
+    "account_age_days": 490,
+    "is_new": false
+  },
+  {
+    "user_id": "U00280",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 153.0,
+    "account_age_days": 483,
+    "is_new": false
+  },
+  {
+    "user_id": "U00281",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 276.0,
+    "account_age_days": 306,
+    "is_new": false
+  },
+  {
+    "user_id": "U00282",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 286.0,
+    "account_age_days": 515,
+    "is_new": false
+  },
+  {
+    "user_id": "U00283",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Beverages"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 225.0,
+    "account_age_days": 482,
+    "is_new": false
+  },
+  {
+    "user_id": "U00284",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 304.0,
+    "account_age_days": 845,
+    "is_new": false
+  },
+  {
+    "user_id": "U00285",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts",
+      "Chinese",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 266.0,
+    "account_age_days": 765,
+    "is_new": true
+  },
+  {
+    "user_id": "U00286",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 520.0,
+    "account_age_days": 575,
+    "is_new": true
+  },
+  {
+    "user_id": "U00287",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani",
+      "Chinese",
+      "Desserts"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 565.0,
+    "account_age_days": 1253,
+    "is_new": false
+  },
+  {
+    "user_id": "U00288",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Beverages",
+      "Mughlai",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 428.0,
+    "account_age_days": 506,
+    "is_new": false
+  },
+  {
+    "user_id": "U00289",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 176.0,
+    "account_age_days": 964,
+    "is_new": false
+  },
+  {
+    "user_id": "U00290",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 204.0,
+    "account_age_days": 26,
+    "is_new": false
+  },
+  {
+    "user_id": "U00291",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "North Indian",
+      "Continental"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 348.0,
+    "account_age_days": 1441,
+    "is_new": false
+  },
+  {
+    "user_id": "U00292",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 452.0,
+    "account_age_days": 1298,
+    "is_new": true
+  },
+  {
+    "user_id": "U00293",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 325.0,
+    "account_age_days": 1255,
+    "is_new": false
+  },
+  {
+    "user_id": "U00294",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai",
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 399.0,
+    "account_age_days": 954,
+    "is_new": false
+  },
+  {
+    "user_id": "U00295",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 788.0,
+    "account_age_days": 489,
+    "is_new": false
+  },
+  {
+    "user_id": "U00296",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 324.0,
+    "account_age_days": 1394,
+    "is_new": false
+  },
+  {
+    "user_id": "U00297",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Continental",
+      "South Indian",
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 591.0,
+    "account_age_days": 1092,
+    "is_new": false
+  },
+  {
+    "user_id": "U00298",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Beverages"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 202.0,
+    "account_age_days": 367,
+    "is_new": false
+  },
+  {
+    "user_id": "U00299",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 769.0,
+    "account_age_days": 47,
+    "is_new": false
+  },
+  {
+    "user_id": "U00300",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 164.0,
+    "account_age_days": 476,
+    "is_new": false
+  },
+  {
+    "user_id": "U00301",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 519.0,
+    "account_age_days": 628,
+    "is_new": false
+  },
+  {
+    "user_id": "U00302",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese",
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 772.0,
+    "account_age_days": 1267,
+    "is_new": false
+  },
+  {
+    "user_id": "U00303",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian",
+      "South Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 796.0,
+    "account_age_days": 1177,
+    "is_new": true
+  },
+  {
+    "user_id": "U00304",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 392.0,
+    "account_age_days": 1106,
+    "is_new": false
+  },
+  {
+    "user_id": "U00305",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages",
+      "Street Food",
+      "South Indian",
+      "North Indian"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 505.0,
+    "account_age_days": 1040,
+    "is_new": false
+  },
+  {
+    "user_id": "U00306",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 223.0,
+    "account_age_days": 981,
+    "is_new": false
+  },
+  {
+    "user_id": "U00307",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 382.0,
+    "account_age_days": 669,
+    "is_new": true
+  },
+  {
+    "user_id": "U00308",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "North Indian",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 440.0,
+    "account_age_days": 1376,
+    "is_new": false
+  },
+  {
+    "user_id": "U00309",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 615.0,
+    "account_age_days": 876,
+    "is_new": false
+  },
+  {
+    "user_id": "U00310",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "South Indian",
+      "Continental"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 727.0,
+    "account_age_days": 852,
+    "is_new": false
+  },
+  {
+    "user_id": "U00311",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "South Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 458.0,
+    "account_age_days": 1076,
+    "is_new": false
+  },
+  {
+    "user_id": "U00312",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Desserts",
+      "Street Food",
+      "Chinese"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 264.0,
+    "account_age_days": 947,
+    "is_new": false
+  },
+  {
+    "user_id": "U00313",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 346.0,
+    "account_age_days": 1199,
+    "is_new": false
+  },
+  {
+    "user_id": "U00314",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 575.0,
+    "account_age_days": 590,
+    "is_new": false
+  },
+  {
+    "user_id": "U00315",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 796.0,
+    "account_age_days": 137,
+    "is_new": false
+  },
+  {
+    "user_id": "U00316",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian",
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 524.0,
+    "account_age_days": 532,
+    "is_new": false
+  },
+  {
+    "user_id": "U00317",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 385.0,
+    "account_age_days": 1304,
+    "is_new": false
+  },
+  {
+    "user_id": "U00318",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 558.0,
+    "account_age_days": 194,
+    "is_new": false
+  },
+  {
+    "user_id": "U00319",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Street Food",
+      "South Indian",
+      "Continental"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 379.0,
+    "account_age_days": 295,
+    "is_new": true
+  },
+  {
+    "user_id": "U00320",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "South Indian",
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 294.0,
+    "account_age_days": 386,
+    "is_new": false
+  },
+  {
+    "user_id": "U00321",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 376.0,
+    "account_age_days": 1416,
+    "is_new": false
+  },
+  {
+    "user_id": "U00322",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Biryani",
+      "North Indian",
+      "Street Food"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 227.0,
+    "account_age_days": 264,
+    "is_new": false
+  },
+  {
+    "user_id": "U00323",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "South Indian",
+      "Desserts"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 646.0,
+    "account_age_days": 229,
+    "is_new": true
+  },
+  {
+    "user_id": "U00324",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 189.0,
+    "account_age_days": 244,
+    "is_new": false
+  },
+  {
+    "user_id": "U00325",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Italian"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 736.0,
+    "account_age_days": 379,
+    "is_new": false
+  },
+  {
+    "user_id": "U00326",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Street Food",
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 475.0,
+    "account_age_days": 1493,
+    "is_new": false
+  },
+  {
+    "user_id": "U00327",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 275.0,
+    "account_age_days": 578,
+    "is_new": false
+  },
+  {
+    "user_id": "U00328",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "Street Food"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 533.0,
+    "account_age_days": 901,
+    "is_new": false
+  },
+  {
+    "user_id": "U00329",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Mughlai",
+      "Beverages",
+      "North Indian"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 790.0,
+    "account_age_days": 254,
+    "is_new": false
+  },
+  {
+    "user_id": "U00330",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "North Indian",
+      "South Indian",
+      "Chinese"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 225.0,
+    "account_age_days": 581,
+    "is_new": false
+  },
+  {
+    "user_id": "U00331",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 428.0,
+    "account_age_days": 143,
+    "is_new": false
+  },
+  {
+    "user_id": "U00332",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 435.0,
+    "account_age_days": 1349,
+    "is_new": false
+  },
+  {
+    "user_id": "U00333",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "South Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 784.0,
+    "account_age_days": 694,
+    "is_new": false
+  },
+  {
+    "user_id": "U00334",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Desserts",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 542.0,
+    "account_age_days": 829,
+    "is_new": false
+  },
+  {
+    "user_id": "U00335",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 300.0,
+    "account_age_days": 276,
+    "is_new": true
+  },
+  {
+    "user_id": "U00336",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Desserts"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 591.0,
+    "account_age_days": 313,
+    "is_new": false
+  },
+  {
+    "user_id": "U00337",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Italian",
+      "Biryani",
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 478.0,
+    "account_age_days": 1111,
+    "is_new": false
+  },
+  {
+    "user_id": "U00338",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "Beverages",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 449.0,
+    "account_age_days": 68,
+    "is_new": false
+  },
+  {
+    "user_id": "U00339",
+    "city": "Chennai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Biryani",
+      "Desserts",
+      "Italian",
+      "North Indian"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 589.0,
+    "account_age_days": 1352,
+    "is_new": false
+  },
+  {
+    "user_id": "U00340",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 534.0,
+    "account_age_days": 774,
+    "is_new": false
+  },
+  {
+    "user_id": "U00341",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Continental"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 694.0,
+    "account_age_days": 715,
+    "is_new": false
+  },
+  {
+    "user_id": "U00342",
+    "city": "Mumbai",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "Street Food",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 187.0,
+    "account_age_days": 501,
+    "is_new": false
+  },
+  {
+    "user_id": "U00343",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 260.0,
+    "account_age_days": 1103,
+    "is_new": false
+  },
+  {
+    "user_id": "U00344",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "North Indian",
+      "Beverages",
+      "Continental",
+      "Mughlai"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 396.0,
+    "account_age_days": 800,
+    "is_new": false
+  },
+  {
+    "user_id": "U00345",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 550.0,
+    "account_age_days": 745,
+    "is_new": false
+  },
+  {
+    "user_id": "U00346",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 322.0,
+    "account_age_days": 609,
+    "is_new": false
+  },
+  {
+    "user_id": "U00347",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "South Indian"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 369.0,
+    "account_age_days": 138,
+    "is_new": false
+  },
+  {
+    "user_id": "U00348",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Mughlai"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 345.0,
+    "account_age_days": 1359,
+    "is_new": false
+  },
+  {
+    "user_id": "U00349",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Chinese",
+      "North Indian",
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 711.0,
+    "account_age_days": 1182,
+    "is_new": false
+  },
+  {
+    "user_id": "U00350",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian",
+      "Italian",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 306.0,
+    "account_age_days": 1404,
+    "is_new": false
+  },
+  {
+    "user_id": "U00351",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Desserts"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 685.0,
+    "account_age_days": 1324,
+    "is_new": false
+  },
+  {
+    "user_id": "U00352",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 465.0,
+    "account_age_days": 894,
+    "is_new": false
+  },
+  {
+    "user_id": "U00353",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 508.0,
+    "account_age_days": 1320,
+    "is_new": false
+  },
+  {
+    "user_id": "U00354",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 191.0,
+    "account_age_days": 834,
+    "is_new": false
+  },
+  {
+    "user_id": "U00355",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 582.0,
+    "account_age_days": 1189,
+    "is_new": false
+  },
+  {
+    "user_id": "U00356",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 530.0,
+    "account_age_days": 799,
+    "is_new": false
+  },
+  {
+    "user_id": "U00357",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 436.0,
+    "account_age_days": 521,
+    "is_new": false
+  },
+  {
+    "user_id": "U00358",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 459.0,
+    "account_age_days": 505,
+    "is_new": false
+  },
+  {
+    "user_id": "U00359",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Continental",
+      "Mughlai",
+      "Street Food"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 663.0,
+    "account_age_days": 491,
+    "is_new": false
+  },
+  {
+    "user_id": "U00360",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Italian",
+      "Desserts"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 403.0,
+    "account_age_days": 805,
+    "is_new": false
+  },
+  {
+    "user_id": "U00361",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian",
+      "Chinese"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 435.0,
+    "account_age_days": 650,
+    "is_new": false
+  },
+  {
+    "user_id": "U00362",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 418.0,
+    "account_age_days": 682,
+    "is_new": false
+  },
+  {
+    "user_id": "U00363",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 624.0,
+    "account_age_days": 1122,
+    "is_new": false
+  },
+  {
+    "user_id": "U00364",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 280.0,
+    "account_age_days": 626,
+    "is_new": false
+  },
+  {
+    "user_id": "U00365",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 461.0,
+    "account_age_days": 274,
+    "is_new": false
+  },
+  {
+    "user_id": "U00366",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "Desserts",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 163.0,
+    "account_age_days": 48,
+    "is_new": false
+  },
+  {
+    "user_id": "U00367",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 552.0,
+    "account_age_days": 1230,
+    "is_new": false
+  },
+  {
+    "user_id": "U00368",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 653.0,
+    "account_age_days": 930,
+    "is_new": false
+  },
+  {
+    "user_id": "U00369",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 235.0,
+    "account_age_days": 424,
+    "is_new": false
+  },
+  {
+    "user_id": "U00370",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 784.0,
+    "account_age_days": 483,
+    "is_new": false
+  },
+  {
+    "user_id": "U00371",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Beverages",
+      "Continental",
+      "Chinese"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 408.0,
+    "account_age_days": 435,
+    "is_new": false
+  },
+  {
+    "user_id": "U00372",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 366.0,
+    "account_age_days": 481,
+    "is_new": false
+  },
+  {
+    "user_id": "U00373",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Biryani"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 553.0,
+    "account_age_days": 620,
+    "is_new": false
+  },
+  {
+    "user_id": "U00374",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Chinese"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 260.0,
+    "account_age_days": 1010,
+    "is_new": false
+  },
+  {
+    "user_id": "U00375",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Biryani",
+      "South Indian",
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 474.0,
+    "account_age_days": 576,
+    "is_new": false
+  },
+  {
+    "user_id": "U00376",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Street Food",
+      "Desserts",
+      "South Indian"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 629.0,
+    "account_age_days": 1007,
+    "is_new": false
+  },
+  {
+    "user_id": "U00377",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Chinese",
+      "Continental",
+      "South Indian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 173.0,
+    "account_age_days": 533,
+    "is_new": false
+  },
+  {
+    "user_id": "U00378",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Beverages",
+      "Street Food",
+      "Mughlai",
+      "Biryani"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 448.0,
+    "account_age_days": 231,
+    "is_new": false
+  },
+  {
+    "user_id": "U00379",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Continental",
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 581.0,
+    "account_age_days": 435,
+    "is_new": false
+  },
+  {
+    "user_id": "U00380",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Italian",
+      "Beverages",
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 364.0,
+    "account_age_days": 583,
+    "is_new": false
+  },
+  {
+    "user_id": "U00381",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 203.0,
+    "account_age_days": 1450,
+    "is_new": false
+  },
+  {
+    "user_id": "U00382",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 555.0,
+    "account_age_days": 928,
+    "is_new": false
+  },
+  {
+    "user_id": "U00383",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian",
+      "South Indian",
+      "Biryani"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 398.0,
+    "account_age_days": 817,
+    "is_new": false
+  },
+  {
+    "user_id": "U00384",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 403.0,
+    "account_age_days": 825,
+    "is_new": false
+  },
+  {
+    "user_id": "U00385",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Chinese",
+      "Street Food",
+      "Beverages",
+      "North Indian"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 389.0,
+    "account_age_days": 410,
+    "is_new": false
+  },
+  {
+    "user_id": "U00386",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Desserts",
+      "Street Food",
+      "Biryani",
+      "Continental"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 560.0,
+    "account_age_days": 191,
+    "is_new": true
+  },
+  {
+    "user_id": "U00387",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 454.0,
+    "account_age_days": 163,
+    "is_new": false
+  },
+  {
+    "user_id": "U00388",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai",
+      "Desserts",
+      "Chinese"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 181.0,
+    "account_age_days": 157,
+    "is_new": false
+  },
+  {
+    "user_id": "U00389",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Biryani",
+      "Street Food",
+      "Chinese",
+      "Mughlai"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 650.0,
+    "account_age_days": 34,
+    "is_new": true
+  },
+  {
+    "user_id": "U00390",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "South Indian",
+      "Desserts",
+      "Street Food",
+      "Chinese"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 532.0,
+    "account_age_days": 932,
+    "is_new": false
+  },
+  {
+    "user_id": "U00391",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "South Indian"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 788.0,
+    "account_age_days": 532,
+    "is_new": false
+  },
+  {
+    "user_id": "U00392",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Chinese",
+      "Street Food",
+      "Italian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 600.0,
+    "account_age_days": 1348,
+    "is_new": false
+  },
+  {
+    "user_id": "U00393",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani",
+      "South Indian",
+      "Beverages"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 159.0,
+    "account_age_days": 230,
+    "is_new": false
+  },
+  {
+    "user_id": "U00394",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Desserts",
+      "Continental"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 346.0,
+    "account_age_days": 950,
+    "is_new": true
+  },
+  {
+    "user_id": "U00395",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental",
+      "Mughlai"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 709.0,
+    "account_age_days": 1199,
+    "is_new": false
+  },
+  {
+    "user_id": "U00396",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 560.0,
+    "account_age_days": 1461,
+    "is_new": false
+  },
+  {
+    "user_id": "U00397",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Beverages",
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 534.0,
+    "account_age_days": 1253,
+    "is_new": false
+  },
+  {
+    "user_id": "U00398",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 18,
+    "avg_order_value": 191.0,
+    "account_age_days": 1328,
+    "is_new": false
+  },
+  {
+    "user_id": "U00399",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Desserts",
+      "North Indian",
+      "South Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 622.0,
+    "account_age_days": 962,
+    "is_new": false
+  },
+  {
+    "user_id": "U00400",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages",
+      "Chinese",
+      "Mughlai"
+    ],
+    "order_frequency": 24,
+    "avg_order_value": 612.0,
+    "account_age_days": 854,
+    "is_new": false
+  },
+  {
+    "user_id": "U00401",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 637.0,
+    "account_age_days": 1367,
+    "is_new": false
+  },
+  {
+    "user_id": "U00402",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Beverages"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 303.0,
+    "account_age_days": 1141,
+    "is_new": true
+  },
+  {
+    "user_id": "U00403",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "North Indian"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 191.0,
+    "account_age_days": 882,
+    "is_new": true
+  },
+  {
+    "user_id": "U00404",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 512.0,
+    "account_age_days": 310,
+    "is_new": false
+  },
+  {
+    "user_id": "U00405",
+    "city": "Delhi",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian",
+      "Mughlai",
+      "Desserts",
+      "Biryani"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 658.0,
+    "account_age_days": 209,
+    "is_new": false
+  },
+  {
+    "user_id": "U00406",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 623.0,
+    "account_age_days": 1451,
+    "is_new": false
+  },
+  {
+    "user_id": "U00407",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Chinese",
+      "South Indian",
+      "Desserts"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 435.0,
+    "account_age_days": 852,
+    "is_new": false
+  },
+  {
+    "user_id": "U00408",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Mughlai",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 392.0,
+    "account_age_days": 850,
+    "is_new": false
+  },
+  {
+    "user_id": "U00409",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese",
+      "Desserts",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 448.0,
+    "account_age_days": 1058,
+    "is_new": false
+  },
+  {
+    "user_id": "U00410",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 370.0,
+    "account_age_days": 823,
+    "is_new": false
+  },
+  {
+    "user_id": "U00411",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 787.0,
+    "account_age_days": 1353,
+    "is_new": false
+  },
+  {
+    "user_id": "U00412",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Continental",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 735.0,
+    "account_age_days": 1251,
+    "is_new": false
+  },
+  {
+    "user_id": "U00413",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Desserts",
+      "Italian",
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 499.0,
+    "account_age_days": 799,
+    "is_new": false
+  },
+  {
+    "user_id": "U00414",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Biryani"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 371.0,
+    "account_age_days": 1302,
+    "is_new": false
+  },
+  {
+    "user_id": "U00415",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Biryani",
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 626.0,
+    "account_age_days": 764,
+    "is_new": false
+  },
+  {
+    "user_id": "U00416",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Biryani"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 629.0,
+    "account_age_days": 929,
+    "is_new": false
+  },
+  {
+    "user_id": "U00417",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani",
+      "Mughlai"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 660.0,
+    "account_age_days": 1465,
+    "is_new": false
+  },
+  {
+    "user_id": "U00418",
+    "city": "Bangalore",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Street Food",
+      "Italian"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 656.0,
+    "account_age_days": 931,
+    "is_new": true
+  },
+  {
+    "user_id": "U00419",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 290.0,
+    "account_age_days": 160,
+    "is_new": false
+  },
+  {
+    "user_id": "U00420",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages",
+      "Desserts",
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 766.0,
+    "account_age_days": 1499,
+    "is_new": false
+  },
+  {
+    "user_id": "U00421",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "South Indian",
+      "Street Food",
+      "Beverages"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 458.0,
+    "account_age_days": 322,
+    "is_new": false
+  },
+  {
+    "user_id": "U00422",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Continental",
+      "Street Food",
+      "Biryani",
+      "Chinese"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 490.0,
+    "account_age_days": 242,
+    "is_new": false
+  },
+  {
+    "user_id": "U00423",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 731.0,
+    "account_age_days": 581,
+    "is_new": false
+  },
+  {
+    "user_id": "U00424",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 522.0,
+    "account_age_days": 1159,
+    "is_new": false
+  },
+  {
+    "user_id": "U00425",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Mughlai",
+      "Beverages"
+    ],
+    "order_frequency": 25,
+    "avg_order_value": 442.0,
+    "account_age_days": 920,
+    "is_new": true
+  },
+  {
+    "user_id": "U00426",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian",
+      "Continental",
+      "Chinese",
+      "Biryani"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 773.0,
+    "account_age_days": 908,
+    "is_new": false
+  },
+  {
+    "user_id": "U00427",
+    "city": "Delhi",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "South Indian",
+      "Continental",
+      "Beverages"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 502.0,
+    "account_age_days": 109,
+    "is_new": false
+  },
+  {
+    "user_id": "U00428",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 776.0,
+    "account_age_days": 564,
+    "is_new": false
+  },
+  {
+    "user_id": "U00429",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Street Food",
+      "Italian",
+      "Biryani"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 469.0,
+    "account_age_days": 48,
+    "is_new": false
+  },
+  {
+    "user_id": "U00430",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Biryani",
+      "South Indian",
+      "North Indian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 502.0,
+    "account_age_days": 585,
+    "is_new": true
+  },
+  {
+    "user_id": "U00431",
+    "city": "Chennai",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Street Food",
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 188.0,
+    "account_age_days": 799,
+    "is_new": true
+  },
+  {
+    "user_id": "U00432",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "North Indian",
+      "Italian",
+      "Continental",
+      "Biryani"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 304.0,
+    "account_age_days": 1042,
+    "is_new": false
+  },
+  {
+    "user_id": "U00433",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Mughlai",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 169.0,
+    "account_age_days": 1298,
+    "is_new": false
+  },
+  {
+    "user_id": "U00434",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 660.0,
+    "account_age_days": 624,
+    "is_new": false
+  },
+  {
+    "user_id": "U00435",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 309.0,
+    "account_age_days": 868,
+    "is_new": false
+  },
+  {
+    "user_id": "U00436",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 539.0,
+    "account_age_days": 1393,
+    "is_new": false
+  },
+  {
+    "user_id": "U00437",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese",
+      "South Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 407.0,
+    "account_age_days": 252,
+    "is_new": false
+  },
+  {
+    "user_id": "U00438",
+    "city": "Chennai",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Biryani",
+      "Beverages",
+      "Chinese"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 580.0,
+    "account_age_days": 659,
+    "is_new": false
+  },
+  {
+    "user_id": "U00439",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 156.0,
+    "account_age_days": 356,
+    "is_new": false
+  },
+  {
+    "user_id": "U00440",
+    "city": "Jaipur",
+    "segment": "premium",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "North Indian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 691.0,
+    "account_age_days": 1376,
+    "is_new": false
+  },
+  {
+    "user_id": "U00441",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "North Indian",
+      "Beverages"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 391.0,
+    "account_age_days": 396,
+    "is_new": false
+  },
+  {
+    "user_id": "U00442",
+    "city": "Hyderabad",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 294.0,
+    "account_age_days": 1012,
+    "is_new": false
+  },
+  {
+    "user_id": "U00443",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Italian",
+      "Desserts"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 715.0,
+    "account_age_days": 1166,
+    "is_new": false
+  },
+  {
+    "user_id": "U00444",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Chinese",
+      "Continental"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 319.0,
+    "account_age_days": 1168,
+    "is_new": false
+  },
+  {
+    "user_id": "U00445",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Beverages",
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 588.0,
+    "account_age_days": 1332,
+    "is_new": true
+  },
+  {
+    "user_id": "U00446",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Beverages",
+      "Italian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 486.0,
+    "account_age_days": 90,
+    "is_new": false
+  },
+  {
+    "user_id": "U00447",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian",
+      "Desserts",
+      "South Indian",
+      "Chinese"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 722.0,
+    "account_age_days": 52,
+    "is_new": false
+  },
+  {
+    "user_id": "U00448",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Continental"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 364.0,
+    "account_age_days": 129,
+    "is_new": false
+  },
+  {
+    "user_id": "U00449",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Street Food"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 313.0,
+    "account_age_days": 221,
+    "is_new": false
+  },
+  {
+    "user_id": "U00450",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "South Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 440.0,
+    "account_age_days": 256,
+    "is_new": true
+  },
+  {
+    "user_id": "U00451",
+    "city": "Mumbai",
+    "segment": "frequent",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 672.0,
+    "account_age_days": 113,
+    "is_new": false
+  },
+  {
+    "user_id": "U00452",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Desserts"
+    ],
+    "order_frequency": 13,
+    "avg_order_value": 212.0,
+    "account_age_days": 842,
+    "is_new": false
+  },
+  {
+    "user_id": "U00453",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "South Indian",
+      "Street Food",
+      "Beverages",
+      "Desserts"
+    ],
+    "order_frequency": 26,
+    "avg_order_value": 167.0,
+    "account_age_days": 1060,
+    "is_new": false
+  },
+  {
+    "user_id": "U00454",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 523.0,
+    "account_age_days": 1306,
+    "is_new": false
+  },
+  {
+    "user_id": "U00455",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Italian",
+      "Continental",
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 233.0,
+    "account_age_days": 1198,
+    "is_new": false
+  },
+  {
+    "user_id": "U00456",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Beverages",
+      "Biryani"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 373.0,
+    "account_age_days": 756,
+    "is_new": false
+  },
+  {
+    "user_id": "U00457",
+    "city": "Bangalore",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 785.0,
+    "account_age_days": 1312,
+    "is_new": false
+  },
+  {
+    "user_id": "U00458",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Continental",
+      "Street Food",
+      "Mughlai",
+      "Biryani",
+      "Chinese"
+    ],
+    "order_frequency": 14,
+    "avg_order_value": 364.0,
+    "account_age_days": 215,
+    "is_new": false
+  },
+  {
+    "user_id": "U00459",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 8,
+    "avg_order_value": 462.0,
+    "account_age_days": 679,
+    "is_new": false
+  },
+  {
+    "user_id": "U00460",
+    "city": "Pune",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 3,
+    "avg_order_value": 383.0,
+    "account_age_days": 1137,
+    "is_new": true
+  },
+  {
+    "user_id": "U00461",
+    "city": "Chennai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "North Indian",
+      "Continental",
+      "Italian",
+      "South Indian"
+    ],
+    "order_frequency": 10,
+    "avg_order_value": 263.0,
+    "account_age_days": 537,
+    "is_new": false
+  },
+  {
+    "user_id": "U00462",
+    "city": "Kolkata",
+    "segment": "premium",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Chinese",
+      "Biryani"
+    ],
+    "order_frequency": 30,
+    "avg_order_value": 216.0,
+    "account_age_days": 1388,
+    "is_new": true
+  },
+  {
+    "user_id": "U00463",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Street Food",
+      "Mughlai",
+      "Beverages",
+      "South Indian"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 785.0,
+    "account_age_days": 1277,
+    "is_new": false
+  },
+  {
+    "user_id": "U00464",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Continental",
+      "Desserts"
+    ],
+    "order_frequency": 23,
+    "avg_order_value": 393.0,
+    "account_age_days": 1228,
+    "is_new": false
+  },
+  {
+    "user_id": "U00465",
+    "city": "Hyderabad",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Biryani",
+      "Chinese"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 311.0,
+    "account_age_days": 1290,
+    "is_new": false
+  },
+  {
+    "user_id": "U00466",
+    "city": "Bangalore",
+    "segment": "frequent",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "South Indian",
+      "Beverages",
+      "Desserts",
+      "Street Food"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 192.0,
+    "account_age_days": 1042,
+    "is_new": false
+  },
+  {
+    "user_id": "U00467",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Mughlai",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 458.0,
+    "account_age_days": 1191,
+    "is_new": false
+  },
+  {
+    "user_id": "U00468",
+    "city": "Mumbai",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Desserts",
+      "Continental",
+      "Chinese",
+      "Beverages"
+    ],
+    "order_frequency": 29,
+    "avg_order_value": 395.0,
+    "account_age_days": 322,
+    "is_new": false
+  },
+  {
+    "user_id": "U00469",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Beverages"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 379.0,
+    "account_age_days": 1196,
+    "is_new": true
+  },
+  {
+    "user_id": "U00470",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Street Food",
+      "Beverages",
+      "Continental",
+      "Chinese",
+      "Italian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 267.0,
+    "account_age_days": 479,
+    "is_new": false
+  },
+  {
+    "user_id": "U00471",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "Italian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 227.0,
+    "account_age_days": 738,
+    "is_new": true
+  },
+  {
+    "user_id": "U00472",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Biryani",
+      "Continental",
+      "Italian",
+      "Street Food"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 799.0,
+    "account_age_days": 1467,
+    "is_new": false
+  },
+  {
+    "user_id": "U00473",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Continental",
+      "North Indian",
+      "Italian"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 483.0,
+    "account_age_days": 306,
+    "is_new": false
+  },
+  {
+    "user_id": "U00474",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "Mughlai",
+      "Beverages",
+      "Street Food",
+      "Continental"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 665.0,
+    "account_age_days": 642,
+    "is_new": false
+  },
+  {
+    "user_id": "U00475",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 240.0,
+    "account_age_days": 263,
+    "is_new": false
+  },
+  {
+    "user_id": "U00476",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Street Food",
+      "Italian",
+      "Desserts",
+      "Mughlai"
+    ],
+    "order_frequency": 22,
+    "avg_order_value": 639.0,
+    "account_age_days": 1415,
+    "is_new": false
+  },
+  {
+    "user_id": "U00477",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Chinese",
+      "Continental"
+    ],
+    "order_frequency": 11,
+    "avg_order_value": 519.0,
+    "account_age_days": 1235,
+    "is_new": false
+  },
+  {
+    "user_id": "U00478",
+    "city": "Pune",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Mughlai",
+      "Desserts",
+      "Continental",
+      "Italian"
+    ],
+    "order_frequency": 4,
+    "avg_order_value": 364.0,
+    "account_age_days": 925,
+    "is_new": false
+  },
+  {
+    "user_id": "U00479",
+    "city": "Chennai",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Beverages",
+      "Continental"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 279.0,
+    "account_age_days": 791,
+    "is_new": false
+  },
+  {
+    "user_id": "U00480",
+    "city": "Hyderabad",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "North Indian",
+      "Street Food",
+      "Continental",
+      "South Indian",
+      "Chinese"
+    ],
+    "order_frequency": 28,
+    "avg_order_value": 741.0,
+    "account_age_days": 801,
+    "is_new": false
+  },
+  {
+    "user_id": "U00481",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "Italian"
+    ],
+    "order_frequency": 5,
+    "avg_order_value": 716.0,
+    "account_age_days": 635,
+    "is_new": false
+  },
+  {
+    "user_id": "U00482",
+    "city": "Jaipur",
+    "segment": "budget",
+    "diet_preference": "non-veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Italian",
+      "Beverages",
+      "Chinese"
+    ],
+    "order_frequency": 7,
+    "avg_order_value": 155.0,
+    "account_age_days": 293,
+    "is_new": false
+  },
+  {
+    "user_id": "U00483",
+    "city": "Pune",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "Beverages",
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 19,
+    "avg_order_value": 175.0,
+    "account_age_days": 187,
+    "is_new": false
+  },
+  {
+    "user_id": "U00484",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "Chinese",
+      "Continental",
+      "South Indian"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 735.0,
+    "account_age_days": 885,
+    "is_new": false
+  },
+  {
+    "user_id": "U00485",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Italian",
+      "Chinese"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 724.0,
+    "account_age_days": 1102,
+    "is_new": false
+  },
+  {
+    "user_id": "U00486",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "Desserts",
+      "South Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 200.0,
+    "account_age_days": 216,
+    "is_new": false
+  },
+  {
+    "user_id": "U00487",
+    "city": "Kolkata",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "North Indian",
+      "Beverages"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 198.0,
+    "account_age_days": 1423,
+    "is_new": false
+  },
+  {
+    "user_id": "U00488",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian",
+      "Mughlai"
+    ],
+    "order_frequency": 9,
+    "avg_order_value": 225.0,
+    "account_age_days": 280,
+    "is_new": false
+  },
+  {
+    "user_id": "U00489",
+    "city": "Jaipur",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Beverages",
+      "Chinese",
+      "Continental"
+    ],
+    "order_frequency": 27,
+    "avg_order_value": 331.0,
+    "account_age_days": 331,
+    "is_new": false
+  },
+  {
+    "user_id": "U00490",
+    "city": "Mumbai",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Desserts"
+    ],
+    "order_frequency": 6,
+    "avg_order_value": 200.0,
+    "account_age_days": 23,
+    "is_new": false
+  },
+  {
+    "user_id": "U00491",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Mughlai",
+      "Italian"
+    ],
+    "order_frequency": 15,
+    "avg_order_value": 603.0,
+    "account_age_days": 1301,
+    "is_new": false
+  },
+  {
+    "user_id": "U00492",
+    "city": "Delhi",
+    "segment": "regular",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Continental",
+      "North Indian"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 652.0,
+    "account_age_days": 414,
+    "is_new": false
+  },
+  {
+    "user_id": "U00493",
+    "city": "Kolkata",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Desserts",
+      "North Indian"
+    ],
+    "order_frequency": 1,
+    "avg_order_value": 369.0,
+    "account_age_days": 394,
+    "is_new": false
+  },
+  {
+    "user_id": "U00494",
+    "city": "Delhi",
+    "segment": "budget",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "North Indian",
+      "Desserts"
+    ],
+    "order_frequency": 17,
+    "avg_order_value": 220.0,
+    "account_age_days": 670,
+    "is_new": false
+  },
+  {
+    "user_id": "U00495",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Desserts",
+      "South Indian",
+      "Italian",
+      "Mughlai",
+      "North Indian"
+    ],
+    "order_frequency": 12,
+    "avg_order_value": 360.0,
+    "account_age_days": 31,
+    "is_new": false
+  },
+  {
+    "user_id": "U00496",
+    "city": "Kolkata",
+    "segment": "budget",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "South Indian",
+      "Biryani",
+      "Street Food"
+    ],
+    "order_frequency": 2,
+    "avg_order_value": 194.0,
+    "account_age_days": 448,
+    "is_new": false
+  },
+  {
+    "user_id": "U00497",
+    "city": "Jaipur",
+    "segment": "frequent",
+    "diet_preference": "veg",
+    "preferred_cuisines": [
+      "Biryani",
+      "South Indian",
+      "Street Food"
+    ],
+    "order_frequency": 21,
+    "avg_order_value": 603.0,
+    "account_age_days": 1389,
+    "is_new": false
+  },
+  {
+    "user_id": "U00498",
+    "city": "Bangalore",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Beverages",
+      "South Indian",
+      "Street Food",
+      "North Indian"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 743.0,
+    "account_age_days": 920,
+    "is_new": false
+  },
+  {
+    "user_id": "U00499",
+    "city": "Hyderabad",
+    "segment": "regular",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Italian",
+      "North Indian"
+    ],
+    "order_frequency": 20,
+    "avg_order_value": 643.0,
+    "account_age_days": 255,
+    "is_new": false
+  },
+  {
+    "user_id": "U00500",
+    "city": "Pune",
+    "segment": "premium",
+    "diet_preference": "no_preference",
+    "preferred_cuisines": [
+      "Chinese",
+      "Street Food"
+    ],
+    "order_frequency": 16,
+    "avg_order_value": 343.0,
+    "account_age_days": 311,
+    "is_new": false
+  }
+]
