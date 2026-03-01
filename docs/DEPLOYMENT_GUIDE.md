@@ -17,25 +17,24 @@ The repository has been structured exactly for deployment. The following files h
 
 ---
 
-## PART 2 — DEPLOY BACKEND (Render – FREE)
+## PART 2 — DEPLOY BACKEND (Hugging Face Spaces – FREE)
 
-Render provides a completely free tier to run Python APIs. 
+Hugging Face Spaces provides a completely free, always-on Docker environment specifically designed for hosting Machine Learning APIs.
 
 **Steps:**
-1. Go to [https://render.com](https://render.com) and create a free account.
-2. Click **New +** in the top right corner and select **Web Service**.
-3. **Connect your GitHub account** and select your `FoodMate` repository.
-4. On the configuration page, fill in the following details:
-   - **Name:** `csao-backend` (or similar)
-   - **Root Directory:** `backend`
-   - **Environment:** `Python 3`
-   - **Build Command:** `pip install -r requirements.txt`
-   - **Start Command:** `uvicorn main:app --host 0.0.0.0 --port 10000` 
-   - **Instance Type:** Select the **Free** tier.
-5. Click **Create Web Service**. 
+1. Go to [https://huggingface.co/spaces](https://huggingface.co/spaces) and create a free account.
+2. Click **Create new Space**.
+3. On the configuration page, fill in the following details:
+   - **Space Name:** `csao-backend` (or similar)
+   - **License:** `OpenRail` (or your choice)
+   - **Select the Space SDK:** Choose **Docker**
+   - **Choose a hardware:** Choose **Free (CPU basic)**
+   - **Space Hardware:** Public
+4. Click **Create Space**.
+5. Once your Space is created, simply connect it to your GitHub repository or commit your files directly. The provided `backend/Dockerfile` and `backend/README.md` are pre-configured to automatically install the dependencies and expose port `7860` as Hugging Face requires.
 
-Wait 2-4 minutes while Render installs your requirements. Once finished, you will see a green **"Live"** indicator. 
-- **Your Backend Live URL will look like:** `https://csao-backend-xxxxx.onrender.com`
+Wait 2-4 minutes while Hugging Face builds your Docker container. Once finished, you will see a green **"Running"** indicator. 
+- **Your Backend Live URL will look like:** `https://your-username-csao-backend.hf.space`
 
 ---
 
@@ -54,7 +53,7 @@ Vercel provides lightning-fast free hosting for React/Vite applications.
    - **Output Directory:** `dist` (auto-detected)
 5. **CRITICAL STEP:** Open the **Environment Variables** dropdown.
    - **Name:** `VITE_API_URL`
-   - **Value:** `https://your-backend.onrender.com/api` *(Replace this with the actual URL Render just gave you! Make sure it ends in `/api`)*
+   - **Value:** `https://your-username-csao-backend.hf.space/api` *(Replace this with the actual URL Hugging Face just gave you! Make sure it ends in `/api`)*
    - Click **Add**.
 6. Click **Deploy**.
 
