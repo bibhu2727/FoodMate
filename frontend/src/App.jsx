@@ -3,6 +3,7 @@ import Header from './components/Header';
 import RestaurantMenu from './components/RestaurantMenu';
 import CartSidebar from './components/CartSidebar';
 import MetricsDashboard from './components/MetricsDashboard';
+import CheckoutPage from './components/CheckoutPage';
 import { useRecommendations } from './hooks/useRecommendations';
 import './index.css';
 
@@ -16,6 +17,7 @@ export default function App() {
   const [cartOpen, setCartOpen] = useState(false);
   const [appLoading, setAppLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [isCheckout, setIsCheckout] = useState(false);
 
   const { recommendations, latency, loading: recLoading, fetchRecommendations } = useRecommendations();
 
@@ -108,6 +110,23 @@ export default function App() {
     );
   }
 
+  if (isCheckout) {
+    return (
+      <div className="app-container">
+        <Header latency={latency} cartSize={cart.length} />
+        <CheckoutPage
+          cart={cart}
+          onBack={() => setIsCheckout(false)}
+          onComplete={() => {
+            setCart([]);
+            setIsCheckout(false);
+          }}
+        />
+        <MetricsDashboard />
+      </div>
+    );
+  }
+
   return (
     <div className="app-container">
       <Header latency={latency} cartSize={cart.length} />
@@ -154,6 +173,10 @@ export default function App() {
           onAddRecommended={addRecommended}
           isOpen={cartOpen}
           onClose={() => setCartOpen(false)}
+          onCheckout={() => {
+            setCartOpen(false);
+            setIsCheckout(true);
+          }}
         />
       </div>
 

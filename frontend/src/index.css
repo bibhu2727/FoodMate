@@ -75,13 +75,16 @@ body {
 ::-webkit-scrollbar {
   width: 6px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--bg-primary);
 }
+
 ::-webkit-scrollbar-thumb {
   background: var(--text-muted);
   border-radius: 3px;
 }
+
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-secondary);
 }
@@ -182,8 +185,15 @@ body {
 }
 
 @keyframes pulse-badge {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.7; }
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.7;
+  }
 }
 
 .badge-latency {
@@ -519,6 +529,7 @@ body {
     opacity: 0;
     transform: translateX(20px);
   }
+
   to {
     opacity: 1;
     transform: translateX(0);
@@ -620,17 +631,32 @@ body {
   opacity: 0;
 }
 
-.csao-item:nth-child(1) { animation-delay: 0.05s; }
-.csao-item:nth-child(2) { animation-delay: 0.1s; }
-.csao-item:nth-child(3) { animation-delay: 0.15s; }
-.csao-item:nth-child(4) { animation-delay: 0.2s; }
-.csao-item:nth-child(5) { animation-delay: 0.25s; }
+.csao-item:nth-child(1) {
+  animation-delay: 0.05s;
+}
+
+.csao-item:nth-child(2) {
+  animation-delay: 0.1s;
+}
+
+.csao-item:nth-child(3) {
+  animation-delay: 0.15s;
+}
+
+.csao-item:nth-child(4) {
+  animation-delay: 0.2s;
+}
+
+.csao-item:nth-child(5) {
+  animation-delay: 0.25s;
+}
 
 @keyframes fadeSlideUp {
   from {
     opacity: 0;
     transform: translateY(8px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -814,6 +840,7 @@ body {
     opacity: 0;
     transform: translateY(20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -856,10 +883,21 @@ body {
   font-weight: 800;
 }
 
-.metric-value.accent { color: var(--accent-primary); }
-.metric-value.success { color: var(--success); }
-.metric-value.info { color: var(--info); }
-.metric-value.warning { color: var(--warning); }
+.metric-value.accent {
+  color: var(--accent-primary);
+}
+
+.metric-value.success {
+  color: var(--success);
+}
+
+.metric-value.info {
+  color: var(--info);
+}
+
+.metric-value.warning {
+  color: var(--warning);
+}
 
 /* ─── Feature Importance Chart ───────────────────────────────────── */
 .fi-section {
@@ -929,7 +967,9 @@ body {
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .loading-text {
@@ -1000,5 +1040,374 @@ body {
   .cart-overlay.open {
     opacity: 1;
     pointer-events: auto;
+  }
+}
+
+/* ─── Checkout Page Variables ───────────────────────────────────── */
+.checkout-container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 2rem auto;
+  padding: 0 2rem;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.back-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  margin-bottom: 1.5rem;
+  transition: color var(--transition-fast);
+}
+
+.back-btn:hover {
+  color: var(--accent-primary);
+}
+
+.checkout-layout {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 2rem;
+}
+
+@media (max-width: 900px) {
+  .checkout-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.checkout-left h2 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+}
+
+.checkout-section {
+  margin-bottom: 1.5rem;
+}
+
+.glass-panel {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+}
+
+.checkout-section h3,
+.checkout-right h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.address-card {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-base);
+}
+
+.address-card.selected {
+  border-color: var(--accent-primary);
+  background: rgba(226, 55, 68, 0.05);
+}
+
+.address-icon {
+  font-size: 1.5rem;
+}
+
+.address-details strong {
+  display: block;
+  font-size: 0.95rem;
+  margin-bottom: 0.25rem;
+}
+
+.address-details p {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+}
+
+.payment-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.payment-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-base);
+}
+
+.payment-card:hover {
+  border-color: var(--border-hover);
+  background: var(--bg-card-hover);
+}
+
+.payment-card input[type="radio"] {
+  accent-color: var(--accent-primary);
+  width: 18px;
+  height: 18px;
+}
+
+.card-design {
+  width: 48px;
+  height: 32px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-design.cc {
+  background: linear-gradient(135deg, #1e1e2d, #2d2d42);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.card-design .chip {
+  width: 8px;
+  height: 6px;
+  background: #f1c40f;
+  border-radius: 1px;
+  position: absolute;
+  top: 6px;
+  left: 6px;
+}
+
+.cc-number {
+  font-size: 0.4rem;
+  color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  bottom: 6px;
+  left: 6px;
+  letter-spacing: 1px;
+}
+
+.card-design.upi {
+  background: white;
+}
+
+.upi-logo {
+  color: #333;
+  font-weight: 800;
+  font-size: 0.6rem;
+}
+
+.order-summary-items {
+  max-height: 250px;
+  overflow-y: auto;
+  margin-bottom: 1.5rem;
+}
+
+.summary-item {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px dashed var(--border);
+}
+
+.summary-item:last-child {
+  border-bottom: none;
+}
+
+.summary-item-name {
+  flex: 1;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.summary-item-price {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.bill-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.bill-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0.25rem 0;
+}
+
+.grand-total {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--text-primary);
+}
+
+.free {
+  color: var(--success);
+  font-weight: 700;
+}
+
+.pay-btn {
+  width: 100%;
+  padding: 0.9rem;
+  background: var(--accent-gradient);
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  box-shadow: var(--shadow-glow);
+  display: flex;
+  justify-content: center;
+}
+
+.pay-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(226, 55, 68, 0.4);
+}
+
+.pay-btn.processing {
+  opacity: 0.8;
+  cursor: wait;
+}
+
+.spinner-mini {
+  width: 20px;
+  height: 20px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: white;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+.secure-badge {
+  text-align: center;
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 1rem;
+}
+
+.checkout-success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  text-align: center;
+}
+
+.checkout-success h2 {
+  font-size: 2rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.checkout-success p {
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.receipt-snippet {
+  background: var(--bg-card);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border);
+  font-family: monospace;
+  font-size: 0.95rem;
+  color: var(--text-primary);
+}
+
+.success-icon-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.checkmark__circle {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  stroke: var(--success);
+  fill: none;
+  animation: stroke 0.6s cubic-bezier(0.65, 0, 0.45, 1) forwards;
+}
+
+.checkmark {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 2;
+  stroke: var(--success);
+  stroke-miterlimit: 10;
+  margin: 0 auto;
+  box-shadow: inset 0px 0px 0px var(--success);
+  animation: fill .4s ease-in-out .4s forwards, scale .3s ease-in-out .9s both;
+}
+
+.checkmark__check {
+  transform-origin: 50% 50%;
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+  animation: stroke 0.3s cubic-bezier(0.65, 0, 0.45, 1) 0.8s forwards;
+}
+
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes scale {
+
+  0%,
+  100% {
+    transform: none;
+  }
+
+  50% {
+    transform: scale3d(1.1, 1.1, 1);
+  }
+}
+
+@keyframes fill {
+  100% {
+    box-shadow: inset 0px 0px 0px 30px rgba(46, 204, 113, 0.1);
   }
 }

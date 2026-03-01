@@ -2,9 +2,10 @@ import CSAORail from './CSAORail';
 
 export default function CartSidebar({
     cart, recommendations, latency, recLoading,
-    onRemove, onAddRecommended, isOpen, onClose,
+    onRemove, onAddRecommended, isOpen, onClose, onCheckout
 }) {
     const total = cart.reduce((sum, item) => sum + (item.base_price || item.price || 0), 0);
+
 
     return (
         <>
@@ -61,7 +62,7 @@ export default function CartSidebar({
                         <span className="cart-total-label">Total</span>
                         <span className="cart-total-value">₹{total}</span>
                     </div>
-                    <button className="checkout-btn" disabled={cart.length === 0} id="checkout-btn">
+                    <button className="checkout-btn" disabled={cart.length === 0} id="checkout-btn" onClick={onCheckout}>
                         Proceed to Checkout →
                     </button>
                 </div>
