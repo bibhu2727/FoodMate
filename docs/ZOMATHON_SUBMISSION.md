@@ -1,3 +1,11 @@
+<style>
+  body { font-family: 'Helvetica Neue', Arial, sans-serif; line-height: 1.8; color: #333; padding: 10mm 5mm; }
+  h1 { color: #e23744; margin-top: 1rem; border-bottom: 2px solid #e23744; padding-bottom: 0.5rem; font-size: 24pt; }
+  h2 { color: #111; margin-top: 1.5rem; margin-bottom: 1rem; font-size: 18pt; }
+  p, li { margin-bottom: 0.85rem; font-size: 12pt; }
+  .page-break { page-break-before: always; }
+</style>
+
 # SECTION 1: TITLE PAGE
 
 **Project Title:**  
@@ -12,7 +20,7 @@ Zomathon – Problem Statement 2
 **Submission Date:**  
 [Placeholder: Submission Date]
 
----
+<div class="page-break"></div>
 
 # SECTION 2: EXECUTIVE SUMMARY
 
@@ -31,7 +39,7 @@ The proposed CSAO engine is projected to deliver an 8–12% lift in AOV and a 15
 **Scalability Readiness:**  
 Designed with a decoupled architecture over FastAPI, decoupled feature stores, and an in-memory caching tier, the system guarantees a sub-200ms latency suitable for high-throughput, real-time production environments.
 
----
+<div class="page-break"></div>
 
 # SECTION 3: PROBLEM UNDERSTANDING
 
@@ -53,7 +61,7 @@ New users (without order history) or new items (without co-occurrence data) must
 **Diversity & Fairness Requirement:**  
 The system must promote menu diversity to prevent a "winner-takes-all" loop where only the top 3 popular items are ever recommended, ensuring fair exposure for long-tail items like specialty desserts.
 
----
+<div class="page-break"></div>
 
 # SECTION 4: DATA PREPARATION & FEATURE ENGINEERING (20%)
 
@@ -98,7 +106,7 @@ Low-latency NoSQL/In-memory datastores ensure instantaneous feature hydration du
 - **Embedding Similarity:** Using item-text embeddings to map new items to similar historical counterparts.
 - **Cuisine-Based Heuristics:** Defaulting to highly compatible items from the same cuisine tree if user history is absent.
 
----
+<div class="page-break"></div>
 
 # SECTION 5: PROBLEM FORMULATION (15%)
 
@@ -124,7 +132,7 @@ Price constraints (recommending add-ons < 30% of cart value) and hard exclusions
 [ Top-N Recommendations ] (Rendered on CSAO Rail)
 ```
 
----
+<div class="page-break"></div>
 
 # SECTION 6: MODEL ARCHITECTURE & AI EDGE (20%)
 
@@ -148,7 +156,7 @@ Final Score = (0.5 × ML Score) + (0.3 × Complementarity Score) + (0.2 × LLM R
 
 *Competitive Advantage:* This hybrid approach prevents the recommendation of repetitive items and injects "common sense" into pure statistical correlations.
 
----
+<div class="page-break"></div>
 
 # SECTION 7: SYSTEM ARCHITECTURE & PRODUCTION READINESS (15%)
 
@@ -180,7 +188,7 @@ Final Score = (0.5 × ML Score) + (0.3 × Complementarity Score) + (0.2 × LLM R
 - **Feature Store Design:** Separation of cold storage (S3/Snowflake) from hot real-time feature delivery.
 - **Monitoring and logging:** Prometheus/Grafana endpoint tagging to monitor real-time model SLA and latency regressions.
 
----
+<div class="page-break"></div>
 
 # SECTION 8: MODEL EVALUATION & FINE-TUNING (15%)
 
@@ -199,7 +207,7 @@ The model's SLA is segmented to ensure equitable performance:
 - **Hyperparameter Tuning:** Bayesian optimization on LightGBM tree-depth, learning rates, and L1/L2 regularization.
 - **Accuracy vs Latency Tradeoff:** Dynamic restriction of candidate pool sizes during high load to guarantee P99 latency remains consistent.
 
----
+<div class="page-break"></div>
 
 # SECTION 9: BUSINESS IMPACT & A/B TESTING DESIGN (15%)
 
@@ -225,7 +233,7 @@ Based on baseline delivery market benchmarks, implementing this system conservat
 - **15% Add-on Acceptance Increase** due to hyper-relevant contextual suggestions.
 - **<200ms Median Latency**, preserving the smooth checkout experience.
 
----
+<div class="page-break"></div>
 
 # SECTION 10: TRADE-OFFS & LIMITATIONS
 
@@ -233,7 +241,7 @@ Based on baseline delivery market benchmarks, implementing this system conservat
 - **Cold Start Imperfections:** Heuristics can sometimes fail for highly specialized niche items without prior history, leaning too heavily on generic favorites.
 - **Model Drift Risks:** Consumer trends change rapidly (e.g., viral food trends or seasonal anomalies), necessitating frequent model retraining pipelines to prevent degradation.
 
----
+<div class="page-break"></div>
 
 # SECTION 11: FUTURE IMPROVEMENTS
 
@@ -242,7 +250,7 @@ Based on baseline delivery market benchmarks, implementing this system conservat
 - **Deep Session Modeling:** Adopting Transformer-based sequences (like BERT4Rec) to attend to the entire lifecycle and hesitations within a user’s checkout timeline.
 - **Continuous Learning Pipeline:** Enabling online learning to adapt the LightGBM trees continuously on live traffic, minimizing manual retraining ops.
 
----
+<div class="page-break"></div>
 
 # SECTION 12: PUBLIC LINKS 
 
