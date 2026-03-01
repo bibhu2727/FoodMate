@@ -1,4 +1,3 @@
-import { useMemo } from 'react';
 
 function getScoreClass(score) {
     if (score >= 0.65) return 'score-high';

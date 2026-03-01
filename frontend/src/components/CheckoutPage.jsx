@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 export default function CheckoutPage({ cart, onBack, onComplete }) {
     const [isProcessing, setIsProcessing] = useState(false);
     const [isSuccess, setIsSuccess] = useState(false);
+    const [orderId] = useState(() => Math.floor(Math.random() * 1000000));
 
     const total = cart.reduce((sum, item) => sum + (item.base_price || item.price || 0), 0);
     const tax = total * 0.05; // 5% GST
@@ -31,7 +32,7 @@ export default function CheckoutPage({ cart, onBack, onComplete }) {
                 </div>
                 <h2>Order Confirmed!</h2>
                 <p>Your food is being prepared and will be delivered shortly.</p>
-                <div className="receipt-snippet">Order ID: #{Math.floor(Math.random() * 1000000)}</div>
+                <div className="receipt-snippet">Order ID: #{orderId}</div>
             </div>
         );
     }

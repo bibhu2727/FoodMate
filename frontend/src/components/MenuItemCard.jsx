@@ -1,4 +1,3 @@
-import { useMemo } from 'react';
 
 export default function MenuItemCard({ item, isInCart, onAdd }) {
     const vegClass = item.veg_type === 'veg' ? 'veg' : 'non-veg';
